@@ -7,6 +7,7 @@
     display: flex;
     background-color: black;
     max-height: 70px;
+    width: 100%;
 }
 
 .navigation-bar ul{
@@ -26,6 +27,7 @@
     margin: 20px;
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
 }
 
 .logo img {
