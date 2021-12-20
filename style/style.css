@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navigation-bar{
+    display: flex;
+    background-color: black;
+    max-height: 70px;
+}
+
+.navigation-bar ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.items li {
+    display: flex;
+    border: 20px;
+    max-width: 80%;
+}
+
+.items li a{
+    display: flex;
+    margin: 20px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.logo img {
+    display: flex;
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 50%;
+    padding: 10px;
+    border: 2px antiquewhite;
+}
